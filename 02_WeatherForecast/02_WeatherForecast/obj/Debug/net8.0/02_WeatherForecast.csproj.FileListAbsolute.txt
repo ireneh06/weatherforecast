@@ -1,0 +1,80 @@
+C:\Users\irene\OneDrive - HTL Neufelden\Dokumente\HTL 5\SWP\Webentwicklung\02_WeatherForecast\02_WeatherForecast\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\irene\OneDrive - HTL Neufelden\Dokumente\HTL 5\SWP\Webentwicklung\02_WeatherForecast\02_WeatherForecast\bin\Debug\net8.0\appsettings.json
+C:\Users\irene\OneDrive - HTL Neufelden\Dokumente\HTL 5\SWP\Webentwicklung\02_WeatherForecast\02_WeatherForecast\bin\Debug\net8.0\02_WeatherForecast.exe
+C:\Users\irene\OneDrive - HTL Neufelden\Dokumente\HTL 5\SWP\Webentwicklung\02_WeatherForecast\02_WeatherForecast\bin\Debug\net8.0\02_WeatherForecast.deps.json
+C:\Users\irene\OneDrive - HTL Neufelden\Dokumente\HTL 5\SWP\Webentwicklung\02_WeatherForecast\02_WeatherForecast\bin\Debug\net8.0\02_WeatherForecast.runtimeconfig.json
+C:\Users\irene\OneDrive - HTL Neufelden\Dokumente\HTL 5\SWP\Webentwicklung\02_WeatherForecast\02_WeatherForecast\bin\Debug\net8.0\02_WeatherForecast.dll
+C:\Users\irene\OneDrive - HTL Neufelden\Dokumente\HTL 5\SWP\Webentwicklung\02_WeatherForecast\02_WeatherForecast\bin\Debug\net8.0\02_WeatherForecast.pdb
+C:\Users\irene\OneDrive - HTL Neufelden\Dokumente\HTL 5\SWP\Webentwicklung\02_WeatherForecast\02_WeatherForecast\obj\Debug\net8.0\02_WeatherForecast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irene\OneDrive - HTL Neufelden\Dokumente\HTL 5\SWP\Webentwicklung\02_WeatherForecast\02_WeatherForecast\obj\Debug\net8.0\02_WeatherForecast.AssemblyInfoInputs.cache
+C:\Users\irene\OneDrive - HTL Neufelden\Dokumente\HTL 5\SWP\Webentwicklung\02_WeatherForecast\02_WeatherForecast\obj\Debug\net8.0\02_WeatherForecast.AssemblyInfo.cs
+C:\Users\irene\OneDrive - HTL Neufelden\Dokumente\HTL 5\SWP\Webentwicklung\02_WeatherForecast\02_WeatherForecast\obj\Debug\net8.0\02_WeatherForecast.csproj.CoreCompileInputs.cache
+C:\Users\irene\OneDrive - HTL Neufelden\Dokumente\HTL 5\SWP\Webentwicklung\02_WeatherForecast\02_WeatherForecast\obj\Debug\net8.0\02_WeatherForecast.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\irene\OneDrive - HTL Neufelden\Dokumente\HTL 5\SWP\Webentwicklung\02_WeatherForecast\02_WeatherForecast\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\irene\OneDrive - HTL Neufelden\Dokumente\HTL 5\SWP\Webentwicklung\02_WeatherForecast\02_WeatherForecast\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\irene\OneDrive - HTL Neufelden\Dokumente\HTL 5\SWP\Webentwicklung\02_WeatherForecast\02_WeatherForecast\obj\Debug\net8.0\staticwebassets\msbuild.02_WeatherForecast.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\irene\OneDrive - HTL Neufelden\Dokumente\HTL 5\SWP\Webentwicklung\02_WeatherForecast\02_WeatherForecast\obj\Debug\net8.0\staticwebassets\msbuild.build.02_WeatherForecast.props
+C:\Users\irene\OneDrive - HTL Neufelden\Dokumente\HTL 5\SWP\Webentwicklung\02_WeatherForecast\02_WeatherForecast\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.02_WeatherForecast.props
+C:\Users\irene\OneDrive - HTL Neufelden\Dokumente\HTL 5\SWP\Webentwicklung\02_WeatherForecast\02_WeatherForecast\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.02_WeatherForecast.props
+C:\Users\irene\OneDrive - HTL Neufelden\Dokumente\HTL 5\SWP\Webentwicklung\02_WeatherForecast\02_WeatherForecast\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\irene\OneDrive - HTL Neufelden\Dokumente\HTL 5\SWP\Webentwicklung\02_WeatherForecast\02_WeatherForecast\obj\Debug\net8.0\scopedcss\bundle\02_WeatherForecast.styles.css
+C:\Users\irene\OneDrive - HTL Neufelden\Dokumente\HTL 5\SWP\Webentwicklung\02_WeatherForecast\02_WeatherForecast\obj\Debug\net8.0\02_WeatherForecast.dll
+C:\Users\irene\OneDrive - HTL Neufelden\Dokumente\HTL 5\SWP\Webentwicklung\02_WeatherForecast\02_WeatherForecast\obj\Debug\net8.0\refint\02_WeatherForecast.dll
+C:\Users\irene\OneDrive - HTL Neufelden\Dokumente\HTL 5\SWP\Webentwicklung\02_WeatherForecast\02_WeatherForecast\obj\Debug\net8.0\02_WeatherForecast.pdb
+C:\Users\irene\OneDrive - HTL Neufelden\Dokumente\HTL 5\SWP\Webentwicklung\02_WeatherForecast\02_WeatherForecast\obj\Debug\net8.0\02_WeatherForecast.genruntimeconfig.cache
+C:\Users\irene\OneDrive - HTL Neufelden\Dokumente\HTL 5\SWP\Webentwicklung\02_WeatherForecast\02_WeatherForecast\obj\Debug\net8.0\ref\02_WeatherForecast.dll
+C:\Users\irene\OneDrive - HTL Neufelden\Dokumente\HTL 5\SWP\Webentwicklung\02_WeatherForecast\02_WeatherForecast\bin\Debug\net8.0\OpenWeatherMap.dll
+C:\Users\irene\OneDrive - HTL Neufelden\Dokumente\HTL 5\SWP\Webentwicklung\02_WeatherForecast\02_WeatherForecast\obj\Debug\net8.0\02_WeatherForecast.csproj.AssemblyReference.cache
+C:\Users\irene\OneDrive - HTL Neufelden\Dokumente\HTL 5\SWP\Webentwicklung\02_WeatherForecast\02_WeatherForecast\obj\Debug\net8.0\02_Weath.DF322156.Up2Date
+C:\Users\irene\OneDrive - HTL Neufelden\Dokumente\HTL 5\SWP\Webentwicklung\02_WeatherForecast\02_WeatherForecast\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\irene\OneDrive - HTL Neufelden\Dokumente\HTL 5\SWP\Webentwicklung\02_WeatherForecast\02_WeatherForecast\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\irene\OneDrive - HTL Neufelden\Dokumente\HTL 5\SWP\Webentwicklung\02_WeatherForecast\02_WeatherForecast\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\irene\OneDrive - HTL Neufelden\Dokumente\HTL 5\SWP\Webentwicklung\02_WeatherForecast\02_WeatherForecast\bin\Debug\net8.0\02_WeatherForecast.staticwebassets.endpoints.json
+C:\Users\irene\OneDrive - HTL Neufelden\Dokumente\HTL 5\SWP\Webentwicklung\02_WeatherForecast\02_WeatherForecast\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\irene\OneDrive - HTL Neufelden\Dokumente\HTL 5\SWP\Webentwicklung\02_WeatherForecast\02_WeatherForecast\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\irene\OneDrive - HTL Neufelden\Dokumente\HTL 5\SWP\Webentwicklung\02_WeatherForecast\02_WeatherForecast\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\irene\OneDrive - HTL Neufelden\Dokumente\HTL 5\SWP\Webentwicklung\02_WeatherForecast\02_WeatherForecast\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\irene\OneDrive - HTL Neufelden\Dokumente\HTL 5\SWP\Webentwicklung\02_WeatherForecast\02_WeatherForecast\obj\Debug\net8.0\02_WeatherForecast.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\irene\OneDrive - HTL Neufelden\Dokumente\HTL 5\SWP\Webentwicklung\02_WeatherForecast\02_WeatherForecast\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\irene\OneDrive - HTL Neufelden\Dokumente\HTL 5\SWP\Webentwicklung\02_WeatherForecast\02_WeatherForecast\obj\Debug\net8.0\staticwebassets\msbuild.02_WeatherForecast.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\irene\OneDrive - HTL Neufelden\Dokumente\HTL 5\SWP\Webentwicklung\02_WeatherForecast\02_WeatherForecast\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\HTL\SWP\WeatherForecast_Hofer_Irene\02_WeatherForecast\02_WeatherForecast\bin\Debug\net8.0\appsettings.Development.json
+C:\HTL\SWP\WeatherForecast_Hofer_Irene\02_WeatherForecast\02_WeatherForecast\bin\Debug\net8.0\appsettings.json
+C:\HTL\SWP\WeatherForecast_Hofer_Irene\02_WeatherForecast\02_WeatherForecast\bin\Debug\net8.0\02_WeatherForecast.staticwebassets.endpoints.json
+C:\HTL\SWP\WeatherForecast_Hofer_Irene\02_WeatherForecast\02_WeatherForecast\bin\Debug\net8.0\02_WeatherForecast.exe
+C:\HTL\SWP\WeatherForecast_Hofer_Irene\02_WeatherForecast\02_WeatherForecast\bin\Debug\net8.0\02_WeatherForecast.deps.json
+C:\HTL\SWP\WeatherForecast_Hofer_Irene\02_WeatherForecast\02_WeatherForecast\bin\Debug\net8.0\02_WeatherForecast.runtimeconfig.json
+C:\HTL\SWP\WeatherForecast_Hofer_Irene\02_WeatherForecast\02_WeatherForecast\bin\Debug\net8.0\02_WeatherForecast.dll
+C:\HTL\SWP\WeatherForecast_Hofer_Irene\02_WeatherForecast\02_WeatherForecast\bin\Debug\net8.0\02_WeatherForecast.pdb
+C:\HTL\SWP\WeatherForecast_Hofer_Irene\02_WeatherForecast\02_WeatherForecast\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\HTL\SWP\WeatherForecast_Hofer_Irene\02_WeatherForecast\02_WeatherForecast\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\HTL\SWP\WeatherForecast_Hofer_Irene\02_WeatherForecast\02_WeatherForecast\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\HTL\SWP\WeatherForecast_Hofer_Irene\02_WeatherForecast\02_WeatherForecast\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\HTL\SWP\WeatherForecast_Hofer_Irene\02_WeatherForecast\02_WeatherForecast\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\HTL\SWP\WeatherForecast_Hofer_Irene\02_WeatherForecast\02_WeatherForecast\bin\Debug\net8.0\OpenWeatherMap.dll
+C:\HTL\SWP\WeatherForecast_Hofer_Irene\02_WeatherForecast\02_WeatherForecast\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\HTL\SWP\WeatherForecast_Hofer_Irene\02_WeatherForecast\02_WeatherForecast\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\HTL\SWP\WeatherForecast_Hofer_Irene\02_WeatherForecast\02_WeatherForecast\obj\Debug\net8.0\02_WeatherForecast.csproj.AssemblyReference.cache
+C:\HTL\SWP\WeatherForecast_Hofer_Irene\02_WeatherForecast\02_WeatherForecast\obj\Debug\net8.0\02_WeatherForecast.GeneratedMSBuildEditorConfig.editorconfig
+C:\HTL\SWP\WeatherForecast_Hofer_Irene\02_WeatherForecast\02_WeatherForecast\obj\Debug\net8.0\02_WeatherForecast.AssemblyInfoInputs.cache
+C:\HTL\SWP\WeatherForecast_Hofer_Irene\02_WeatherForecast\02_WeatherForecast\obj\Debug\net8.0\02_WeatherForecast.AssemblyInfo.cs
+C:\HTL\SWP\WeatherForecast_Hofer_Irene\02_WeatherForecast\02_WeatherForecast\obj\Debug\net8.0\02_WeatherForecast.csproj.CoreCompileInputs.cache
+C:\HTL\SWP\WeatherForecast_Hofer_Irene\02_WeatherForecast\02_WeatherForecast\obj\Debug\net8.0\02_WeatherForecast.MvcApplicationPartsAssemblyInfo.cs
+C:\HTL\SWP\WeatherForecast_Hofer_Irene\02_WeatherForecast\02_WeatherForecast\obj\Debug\net8.0\02_WeatherForecast.MvcApplicationPartsAssemblyInfo.cache
+C:\HTL\SWP\WeatherForecast_Hofer_Irene\02_WeatherForecast\02_WeatherForecast\obj\Debug\net8.0\scopedcss\bundle\02_WeatherForecast.styles.css
+C:\HTL\SWP\WeatherForecast_Hofer_Irene\02_WeatherForecast\02_WeatherForecast\obj\Debug\net8.0\staticwebassets.build.json
+C:\HTL\SWP\WeatherForecast_Hofer_Irene\02_WeatherForecast\02_WeatherForecast\obj\Debug\net8.0\staticwebassets.development.json
+C:\HTL\SWP\WeatherForecast_Hofer_Irene\02_WeatherForecast\02_WeatherForecast\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\HTL\SWP\WeatherForecast_Hofer_Irene\02_WeatherForecast\02_WeatherForecast\obj\Debug\net8.0\staticwebassets\msbuild.02_WeatherForecast.Microsoft.AspNetCore.StaticWebAssets.props
+C:\HTL\SWP\WeatherForecast_Hofer_Irene\02_WeatherForecast\02_WeatherForecast\obj\Debug\net8.0\staticwebassets\msbuild.02_WeatherForecast.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\HTL\SWP\WeatherForecast_Hofer_Irene\02_WeatherForecast\02_WeatherForecast\obj\Debug\net8.0\staticwebassets\msbuild.build.02_WeatherForecast.props
+C:\HTL\SWP\WeatherForecast_Hofer_Irene\02_WeatherForecast\02_WeatherForecast\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.02_WeatherForecast.props
+C:\HTL\SWP\WeatherForecast_Hofer_Irene\02_WeatherForecast\02_WeatherForecast\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.02_WeatherForecast.props
+C:\HTL\SWP\WeatherForecast_Hofer_Irene\02_WeatherForecast\02_WeatherForecast\obj\Debug\net8.0\staticwebassets.pack.json
+C:\HTL\SWP\WeatherForecast_Hofer_Irene\02_WeatherForecast\02_WeatherForecast\obj\Debug\net8.0\02_Weath.DF322156.Up2Date
+C:\HTL\SWP\WeatherForecast_Hofer_Irene\02_WeatherForecast\02_WeatherForecast\obj\Debug\net8.0\02_WeatherForecast.dll
+C:\HTL\SWP\WeatherForecast_Hofer_Irene\02_WeatherForecast\02_WeatherForecast\obj\Debug\net8.0\refint\02_WeatherForecast.dll
+C:\HTL\SWP\WeatherForecast_Hofer_Irene\02_WeatherForecast\02_WeatherForecast\obj\Debug\net8.0\02_WeatherForecast.pdb
+C:\HTL\SWP\WeatherForecast_Hofer_Irene\02_WeatherForecast\02_WeatherForecast\obj\Debug\net8.0\02_WeatherForecast.genruntimeconfig.cache
+C:\HTL\SWP\WeatherForecast_Hofer_Irene\02_WeatherForecast\02_WeatherForecast\obj\Debug\net8.0\ref\02_WeatherForecast.dll
+C:\HTL\SWP\WeatherForecast_Hofer_Irene\02_WeatherForecast\02_WeatherForecast\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "lEdXLs/3wo6wnC8OQ61gs2fqu96fL3ciUOk4IT8zWGQ=",
+  "Source": "02_WeatherForecast",
+  "BasePath": "_content/02_WeatherForecast",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

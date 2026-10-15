@@ -1,0 +1,39 @@
+[
+  {
+    "ContainingType": "WeatherAPI.Controllers.LocationController",
+    "Method": "GetLocationSuggestions",
+    "RelativePath": "api/location/city/{cityName}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cityName",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "_02_Weatherforecast.Endpoints.WeatherForecastController",
+    "Method": "GetWeatherForCity",
+    "RelativePath": "api/weather/city/{longitude}/{latitude}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "longitude",
+        "Type": "System.Double",
+        "IsRequired": true
+      },
+      {
+        "Name": "latitude",
+        "Type": "System.Double",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

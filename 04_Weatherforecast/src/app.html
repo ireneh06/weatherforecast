@@ -1,0 +1,91 @@
+<template>
+  <require from="bricks/my-unix-value-converter"></require>
+  <div class="header">
+    <h1 class="header-text">${weatherforecast}</h1>
+
+  </div>
+  <div class="input-dropdown-div" >
+    
+    <div class="input">
+      <input class="input-field" value.bind="currentInput" input.delegate="onInputChange()" focus.trigger="focusInput = true" placeholder="Geben Sie einen Ort ein">
+      
+      <div class="dropdown-list" show.bind="focusInput && currentInput.length>1 && locationSuggestions.length>0">
+        <div repeat.for="location of locationSuggestions" click.delegate="locationClick(location)" class="dropdown-item">${location.properties.formatted}</div>
+      </div>
+    </div>
+        
+  </div>
+
+  <div class="data" show.bind="weatherData">
+
+    <div class="data-menue">
+      <div class="data-menue-date-container">
+        <div class="data-menue-date" value.bind="selectedDate" click.delegate="selectedDate = date" repeat.for="date of uniqueDates">
+          <p>${date}</p>
+        </div>
+      </div>
+      <div class="data-menue-time-container">
+        <div class="data-menue-time" value.bind="selectedTime" click.delegate="selectedTime = time" repeat.for="time of optionalTimes">
+          <p >${time}</p>
+        </div>
+      </div>
+
+    </div>
+
+    <div class="data-header">
+      <div class="data-header-info">
+          <p>${weatherData.list[choosenIndex].weather[0].description} </p>
+          Bewölkung: ${weatherData.list[choosenIndex].clouds.all} % </br>
+          Niederschlagswahrscheinlichkeit: ${weatherData.list[choosenIndex].pop *100} % </br>
+          Regen in den letzten 3h: ${rain} mm
+      </div>
+      <div class="data-header-icon">
+        <img src.bind="iconUrl" alt="">
+      </div>
+      <div class="data-header-description">
+        <h3>
+          <p class="temperature">${weatherData.list[choosenIndex].main.temp} °C</p>
+          <span class="feels-like">Gefühlt: ${weatherData.list[choosenIndex].main.feels_like} °C</span>
+        </h3>
+      </div>
+    </div>
+    
+    <div class="data-info-display">
+      <div class="weather-info">
+
+        <div class="weather-item">
+          <h2>Land</h2>
+          <p>${weatherData.city.country}</p>
+          <h2>Druck</h2>
+          <p>${weatherData.list[choosenIndex].main.pressure} hPa</p>
+        </div>
+        <div class="weather-item">
+          <h2>Wind-</br>geschwindigkeit</h2>
+          <p>${weatherData.list[choosenIndex].wind.speed} m/s</p>
+          <h2>Windrichtung in Grad:</h2>
+          <p>${weatherData.list[choosenIndex].wind.deg} °</p>
+          <h2>Windböen:</h2>
+          <p>${weatherData.list[choosenIndex].wind.gust} m/s</p>
+        </div>
+        <div class="weather-item">
+          <h2>Luftfeuchtigkeit</h2>
+          <p>${weatherData.list[choosenIndex].main.humidity} %</p>
+          <h2>Sichtweite</h2>
+          <p>${weatherData.list[choosenIndex].visibility} m</p>
+        </div>
+        <div class="weather-item">
+          <h2>Sonnenaufgang</h2>
+          <p>${weatherData.city.sunrise | myUnix}</p>
+          <h2>Sonnenuntergang</h2>
+          <p>${weatherData.city.sunset | myUnix}</p>
+        </div>
+        <div class="weather-item">
+          <h2>Luftdruck Meereshöhe</h2>
+          <p>${weatherData.list[choosenIndex].main.sea_level} hPa</p>
+          <h2>Luftdruck Bodenhöhe</h2>
+          <p>${weatherData.list[choosenIndex].main.grnd_level} hPa</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</template>
