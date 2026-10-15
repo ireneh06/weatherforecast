@@ -78,3 +78,4 @@ C:\HTL\SWP\WeatherForecast_Hofer_Irene\02_WeatherForecast\02_WeatherForecast\obj
 C:\HTL\SWP\WeatherForecast_Hofer_Irene\02_WeatherForecast\02_WeatherForecast\obj\Debug\net8.0\02_WeatherForecast.genruntimeconfig.cache
 C:\HTL\SWP\WeatherForecast_Hofer_Irene\02_WeatherForecast\02_WeatherForecast\obj\Debug\net8.0\ref\02_WeatherForecast.dll
 C:\HTL\SWP\WeatherForecast_Hofer_Irene\02_WeatherForecast\02_WeatherForecast\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\HTL\SWP\WeatherForecast_Hofer_Irene\02_WeatherForecast\02_WeatherForecast\obj\Debug\net8.0\02_WeatherForecast.sourcelink.json

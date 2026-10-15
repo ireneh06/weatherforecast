@@ -38,8 +38,15 @@ public class LocationController : ControllerBase
     {
         try
         {
-            string apiKey = "20bf45503dd44f1c8a7f635dddae9f8c";
-            string url = $"https://api.geoapify.com/v1/geocode/autocomplete?text={cityName}&apiKey={apiKey}";
+            string? apiKey = Environment.GetEnvironmentVariable("GEOAPIFY_API_KEY");
+            
+
+            if (string.IsNullOrEmpty(apiKey))
+            {
+                throw new InvalidOperationException("Geoapify API key is missing.");
+            }
+
+            string url = $"https://api.geoapify.com/v1/geocode/autocomplete?text={Uri.EscapeDataString(cityName)}&apiKey={apiKey}";
 
             // API-Aufruf
             var response = await _httpClient.GetAsync(url);

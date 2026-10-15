@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\HTL\\SWP\\WeatherForecast_Hofer_Irene\\02_WeatherForecast\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7299C4C2-0E0D-41C0-A769-640B812C4E51}|02_WeatherForecast\\02_WeatherForecast.csproj|c:\\htl\\swp\\weatherforecast_hofer_irene\\02_weatherforecast\\02_weatherforecast\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{7299C4C2-0E0D-41C0-A769-640B812C4E51}|02_WeatherForecast\\02_WeatherForecast.csproj|solutionrelative:02_weatherforecast\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7299C4C2-0E0D-41C0-A769-640B812C4E51}|02_WeatherForecast\\02_WeatherForecast.csproj|c:\\htl\\swp\\weatherforecast_hofer_irene\\02_weatherforecast\\02_weatherforecast\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7299C4C2-0E0D-41C0-A769-640B812C4E51}|02_WeatherForecast\\02_WeatherForecast.csproj|solutionrelative:02_weatherforecast\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7299C4C2-0E0D-41C0-A769-640B812C4E51}|02_WeatherForecast\\02_WeatherForecast.csproj|c:\\htl\\swp\\weatherforecast_hofer_irene\\02_weatherforecast\\02_weatherforecast\\endpoints\\locationendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7299C4C2-0E0D-41C0-A769-640B812C4E51}|02_WeatherForecast\\02_WeatherForecast.csproj|solutionrelative:02_weatherforecast\\endpoints\\locationendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7299C4C2-0E0D-41C0-A769-640B812C4E51}|02_WeatherForecast\\02_WeatherForecast.csproj|c:\\htl\\swp\\weatherforecast_hofer_irene\\02_weatherforecast\\02_weatherforecast\\endpoints\\weatherendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7299C4C2-0E0D-41C0-A769-640B812C4E51}|02_WeatherForecast\\02_WeatherForecast.csproj|solutionrelative:02_weatherforecast\\endpoints\\weatherendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7299C4C2-0E0D-41C0-A769-640B812C4E51}|02_WeatherForecast\\02_WeatherForecast.csproj|c:\\htl\\swp\\weatherforecast_hofer_irene\\02_weatherforecast\\02_weatherforecast\\endpoints\\locationendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7299C4C2-0E0D-41C0-A769-640B812C4E51}|02_WeatherForecast\\02_WeatherForecast.csproj|solutionrelative:02_weatherforecast\\endpoints\\locationendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7299C4C2-0E0D-41C0-A769-640B812C4E51}|02_WeatherForecast\\02_WeatherForecast.csproj|c:\\htl\\swp\\weatherforecast_hofer_irene\\02_weatherforecast\\02_weatherforecast\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7299C4C2-0E0D-41C0-A769-640B812C4E51}|02_WeatherForecast\\02_WeatherForecast.csproj|solutionrelative:02_weatherforecast\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7299C4C2-0E0D-41C0-A769-640B812C4E51}|02_WeatherForecast\\02_WeatherForecast.csproj|c:\\htl\\swp\\weatherforecast_hofer_irene\\02_weatherforecast\\02_weatherforecast\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7299C4C2-0E0D-41C0-A769-640B812C4E51}|02_WeatherForecast\\02_WeatherForecast.csproj|solutionrelative:02_weatherforecast\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,15 +26,19 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\HTL\\SWP\\WeatherForecast_Hofer_Irene\\02_WeatherForecast\\02_WeatherForecast\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "02_WeatherForecast\\Properties\\launchSettings.json",
@@ -42,44 +46,44 @@
               "RelativeToolTip": "02_WeatherForecast\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-12T09:34:09.61Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-12T09:34:09.61Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\HTL\\SWP\\WeatherForecast_Hofer_Irene\\02_WeatherForecast\\02_WeatherForecast\\Program.cs",
               "RelativeDocumentMoniker": "02_WeatherForecast\\Program.cs",
               "ToolTip": "C:\\HTL\\SWP\\WeatherForecast_Hofer_Irene\\02_WeatherForecast\\02_WeatherForecast\\Program.cs",
               "RelativeToolTip": "02_WeatherForecast\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAABoAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-05T11:29:21.241Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "WeatherEndpoint.cs",
               "DocumentMoniker": "C:\\HTL\\SWP\\WeatherForecast_Hofer_Irene\\02_WeatherForecast\\02_WeatherForecast\\Endpoints\\WeatherEndpoint.cs",
               "RelativeDocumentMoniker": "02_WeatherForecast\\Endpoints\\WeatherEndpoint.cs",
               "ToolTip": "C:\\HTL\\SWP\\WeatherForecast_Hofer_Irene\\02_WeatherForecast\\02_WeatherForecast\\Endpoints\\WeatherEndpoint.cs",
               "RelativeToolTip": "02_WeatherForecast\\Endpoints\\WeatherEndpoint.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAA1wHwAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwB0AAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-09T09:24:04.047Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "LocationEndpoint.cs",
               "DocumentMoniker": "C:\\HTL\\SWP\\WeatherForecast_Hofer_Irene\\02_WeatherForecast\\02_WeatherForecast\\Endpoints\\LocationEndpoint.cs",
               "RelativeDocumentMoniker": "02_WeatherForecast\\Endpoints\\LocationEndpoint.cs",
               "ToolTip": "C:\\HTL\\SWP\\WeatherForecast_Hofer_Irene\\02_WeatherForecast\\02_WeatherForecast\\Endpoints\\LocationEndpoint.cs",
               "RelativeToolTip": "02_WeatherForecast\\Endpoints\\LocationEndpoint.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAADgAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T07:42:52.994Z"
+              "WhenOpened": "2024-12-23T07:42:52.994Z",
+              "EditorCaption": ""
             }
           ]
         }

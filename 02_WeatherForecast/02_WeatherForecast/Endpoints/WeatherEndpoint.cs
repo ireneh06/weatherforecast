@@ -23,9 +23,14 @@ namespace _02_Weatherforecast.Endpoints
         {
             try
             {
-                //configure url
-                string apiKey = "9dfdb88d572a0b7898e22beec209aceb";
-                string url = $"https://api.openweathermap.org/data/2.5/forecast?lat={latitude}&lon={longitude}&appid={apiKey}&lang=de&units=metric"; //keine $
+                string? apiKey = Environment.GetEnvironmentVariable("OPENWEATHER_API_KEY");
+
+                if (string.IsNullOrEmpty(apiKey))
+                {
+                    throw new InvalidOperationException("OpenWeather API key is missing.");
+                }
+
+                string url = $"https://api.openweathermap.org/data/2.5/forecast?lat={latitude}&lon={longitude}&appid={apiKey}&lang=de&units=metric";
 
                 // API-Call
                 var response = await _httpClient.GetAsync(url);
