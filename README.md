@@ -4,6 +4,20 @@
 
 A web application consisting of an **Aurelia frontend** and an **ASP.NET Web API backend**.
 
+
+## Screenshots
+
+### Weather Forecast
+
+<img src="screenshots/forecast.png" width="700">
+
+### Forecast Details
+
+<img src="screenshots/changeLocation.png" width="700">
+
+
+
+
 ## Prerequisites
 
 - **Node.js:** v20.17.0
